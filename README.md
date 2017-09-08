@@ -15,7 +15,28 @@ https://github.com/asecondwill/silverstripe-social-embed-shortcodes
 
 Blocks
 ---------------
+Pages have a tab "Blocks".  Click into that and view the dropdown of block types.  Select one and click add to start creating. Click the preview button to see where the blocks will go.
 
+![blocks](blocks.png)]
+
+Blocks can be ordered using the drag handle on the left.
+
+## Block Types
+
+
+### Content Block
+
+Straightforward WYSIWYG / TINYMCE field.   
+
+
+
+
+Classes
+----------------
+You can add some special classes to elements to add styling.  
+
+Push-down - adds margin top
+Button - turns a link into a button
 
 Sass Framework
 ----------------
