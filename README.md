@@ -63,6 +63,8 @@ Classes
 ----------------
 You can add some special classes to elements to add styling.  
 
+![classes](classes.png)
+
 Push-down - adds margin top
 Button - turns a link into a button
 
