@@ -1,6 +1,6 @@
-# silverstripe-tractor
+# Silverstripe-Enhancements
 
-Tractor is a set of CMS enhancements for the Silverstripe platform.  Currently it is an internal Kindleman tool, soon to be released as open source.
+A set of CMS enhancements for the Silverstripe platform.  Currently it is an internal Kindleman tool, soon to be released as open source.
 
 Along with this guide, there are [good docs for Silverstripe](https://userhelp.silverstripe.org/en/3.6/) users
 
@@ -9,7 +9,7 @@ Along with this guide, there are [good docs for Silverstripe](https://userhelp.s
 
 Shortcodes
 ----------------
-Tractor includes Social Embeds.  You can use them to place social feeds in your WYSIWYG content areas.
+Includes Social Embeds.  You can use them to place social feeds in your WYSIWYG content areas.
 
 https://github.com/asecondwill/silverstripe-social-embed-shortcodes
 
@@ -85,7 +85,7 @@ Button - turns a link into a button
 
 Sass Framework
 ----------------
-Tractors Css is based on the Sass framework Foundation.  The docs for foundation are useful when using Tractor's blocks components or developting new themes.   Tractors blocks aims to provide various foundation elements as flexible content.   
+The Css is based on the Sass framework Foundation.  The docs for foundation are useful when using the blocks components or developting new themes.   The blocks module aims to provide various foundation elements as flexible content.   
 
 http://foundation.zurb.com/sites/docs/
 
@@ -94,6 +94,6 @@ http://foundation.zurb.com/sites/docs/
 
 Forms
 -----------------
-Tractor includes Silverstripe's userforms module.  To add a form,  create a page of type UserDefinedForms.  Click the FormFields tab and add fields. There is [Further UserForms documentation](https://github.com/silverstripe/silverstripe-userforms/blob/master/docs/en/userguide/index.md) available.
+Includes Silverstripe's userforms module.  To add a form,  create a page of type UserDefinedForms.  Click the FormFields tab and add fields. There is [Further UserForms documentation](https://github.com/silverstripe/silverstripe-userforms/blob/master/docs/en/userguide/index.md) available.
 
 
