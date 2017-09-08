@@ -27,5 +27,6 @@ http://foundation.zurb.com/sites/docs/
 
 Forms
 -----------------
+Tractor includes Silverstripe's userforms module.  To add a form,  create a page of type UserDefinedForms.  Click the FormFields tab and add fields. There is [Further UserForms documentation](https://github.com/silverstripe/silverstripe-userforms/blob/master/docs/en/userguide/index.md) available.
 
 
