@@ -2,7 +2,9 @@
 
 Tractor is a set of CMS enhancements for the Silverstripe platform.  Currently it is an internal Kindleman tool, soon to be released as open source.
 
-docs for the flexible content component
+Along with this guide, there are [good docs for Silverstripe](https://userhelp.silverstripe.org/en/3.6/) users
+
+
 
 
 Shortcodes
