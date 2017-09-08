@@ -68,15 +68,15 @@ Button - turns a link into a button
 
 ## Color Scheme classes
 
-color-scheme-alt-1 white on light blue
-color-scheme-alt-2 white on light grey
-color-scheme-alt-3 white on green
-color-scheme-alt-4 white on  pink;
-color-scheme-alt-5 white on  blue
-color-scheme-alt-6 white on  navy
-color-scheme-alt-7 white on  black
-color-scheme-alt-8 white on  dark grey
-color-scheme-alt-9 white on  orange
+* color-scheme-alt-1 white on light blue
+* color-scheme-alt-2 white on light grey
+* color-scheme-alt-3 white on green
+* color-scheme-alt-4 white on  pink;
+* color-scheme-alt-5 white on  blue
+* color-scheme-alt-6 white on  navy
+* color-scheme-alt-7 white on  black
+* color-scheme-alt-8 white on  dark grey
+* color-scheme-alt-9 white on  orange
 
 
 
