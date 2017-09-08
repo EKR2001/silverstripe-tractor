@@ -1,17 +1,17 @@
 # silverstripe-tractor
 
-Tractor is a set of CMS enhancements for the Silverstripe platform.  Currently it is an internal Kindleman tool, soon to be released as open source. 
+Tractor is a set of CMS enhancements for the Silverstripe platform.  Currently it is an internal Kindleman tool, soon to be released as open source.
 
 docs for the flexible content component
 
 
 Shortcodes
 ----------------
-Tractor includes Social Embeds.  You can use them to place social feeds in your WYSIWYG content areas. 
+Tractor includes Social Embeds.  You can use them to place social feeds in your WYSIWYG content areas.
 
 https://github.com/asecondwill/silverstripe-social-embed-shortcodes
 
-
+![alt text](shortcodes.png)
 
 Blocks
 ---------------
