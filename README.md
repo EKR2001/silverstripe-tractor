@@ -26,7 +26,7 @@ Blocks can be ordered using the drag handle on the left.
 ## Block Types
 
 ### Block Grid Block
-Creates a block grid using Foundation's blockgrids.  specificy blocks per row for each breakpoint Large, Medium, Small.  Block grids will flow into multiple rows.  
+Creates a block grid using Foundation's blockgrids.  Specify blocks per row for each breakpoint Large, Medium, Small.  Block grids will flow into multiple rows.  
 
 Options -
   expanded row - full width of the browser window, breaking out of the site row limit.
